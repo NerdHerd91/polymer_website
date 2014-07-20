@@ -1,4 +1,10 @@
-Polymer_Website
-===============
+# Polymer_Website
 
 A new portfolio website using Google's Polymer framework.
+
+## Deploying Site
+
+* Python 2.x:
+```python -m SimpleHTTPServer```
+* Python 3.x:
+```python -m http.server``` 
